@@ -1,3 +1,3 @@
 scrapy==1.5.1
 requests==2.21.0
-tdqm==4.28.1
+tdqm
